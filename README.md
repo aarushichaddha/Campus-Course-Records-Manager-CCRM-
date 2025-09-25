@@ -100,3 +100,19 @@ Assertions are used to verify program invariants. To enable them, use the -ea fl
 java -cp bin -ea edu.ccrm.cli.CCRMApplication
 
 ```
+
+## Screenshots
+
+![image alt] (https://github.com/aarushichaddha/Campus-Course-Records-Manager-CCRM-/blob/master/Screenshots/Screenshot%202025-09-21%20132526.png)
+
+![image alt](https://github.com/aarushichaddha/Campus-Course-Records-Manager-CCRM-/blob/master/Screenshots/Screenshot%202025-09-21%20132548.png)
+
+![image alt](https://github.com/aarushichaddha/Campus-Course-Records-Manager-CCRM-/blob/master/Screenshots/Screenshot%202025-09-21%20132615.png)
+
+
+![image alt](https://github.com/aarushichaddha/Campus-Course-Records-Manager-CCRM-/blob/master/Screenshots/Screenshot%202025-09-21%20132626.png)
+
+
+![image alt](https://github.com/aarushichaddha/Campus-Course-Records-Manager-CCRM-/blob/master/Screenshots/Screenshot%202025-09-21%20132647.png)
+
+![image alt](https://github.com/aarushichaddha/Campus-Course-Records-Manager-CCRM-/blob/master/Screenshots/Screenshot%202025-09-21%20132704.png)
